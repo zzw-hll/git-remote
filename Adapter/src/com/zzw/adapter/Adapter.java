@@ -1,5 +1,5 @@
 package com.zzw.adapter;
-
+//修改后提交
 public class Adapter {
 	//Robot cry() move() 火鸡冒充鸭子（被适配者）
 	//Dog wang() run()   机器人冒充狗（被适配者）
