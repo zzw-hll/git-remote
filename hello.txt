@@ -3,6 +3,6 @@ hello cmb! hello git!33333
 hello cmb! hello git!
 hello cmb! hello git!
 hello cmb! hello git!
-hello cmb! hello git!
 hello cmb! hello git!master
+hello cmb! hello git!hot-fix
 hello cmb! hello git!
